@@ -94,9 +94,13 @@ Enable market intelligence reporting
 
 📁 Project Structure
 Used-Cars-EDA/
+
 │── EDA_Project.ipynb
+
 │── Car_data.csv
+
 │── Web_Scraping.ipynb
+
 │── README.md
 
 ▶ How to Run This Project
